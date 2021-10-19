@@ -25,12 +25,12 @@ x = payload.json() #output is in disctionary
 
 result = json.dumps(x, indent = 4) #converts the dictionary (x) to json
 
-#print(result)
-
 df = pd.read_json(result)
-output = df.to_csv('data_file.csv')
+output = df["records"].to_csv('data_file.csv')
 
-print (output)
+print(df["records"])
+print('Job Completed')
+
 
 
 #, 'X-Authorization':'Bearer ' + token

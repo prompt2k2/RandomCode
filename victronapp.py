@@ -1,5 +1,6 @@
 import requests
 import json
+import ast
 import pandas as pd
 import csv
 base_url = 'https://vrmapi.victronenergy.com/v2/'
@@ -23,12 +24,53 @@ session.headers['Connection'] ='Keep-Alive'
 payload = session.get(endpoint)
 x = payload.json() #output is in disctionary
 
-result = json.dumps(x, indent = 4) #converts the dictionary (x) to json
+#result = json.dumps(x, indent = 4) #converts the dictionary (x) to json
+'''
 
-df = pd.read_json(result)
 output = df["records"].to_csv('data_file.csv')
 
-print(df["records"])
+#print(df["records"])
+
+
+print(result)
+'''
+
+mystr = """
+result
+"""
+
+#val = ast.literal_eval(x)
+val1 = json.loads(json.dumps(x)) #converts the dictionary (x) to Json
+val2 = val1["records"]
+
+abc = pd.DataFrame(val2, columns=[
+            "idSite",
+            "accessLevel",
+            "owner",
+            "is_admin",
+            "name",
+            "identifier",
+            "idUser",
+            "pvMax",
+            "timezone",
+            "phonenumber",
+            "notes",
+            "geofence",
+            "geofenceEnabled",
+            "realtimeUpdates",
+            "hasMains",
+            "hasGenerator",
+            "noDataAlarmTimeout",
+            "alarmMonitoring",
+            "invalidVRMAuthTokenUsedInLogRequest",
+            "syscreated",
+            "grafanaEnabled",
+            "shared",
+            "device_icon"])
+
+output = abc.to_csv('data_file.csv') #Saves the csv file to directory.
+
+print(abc)
 print('Job Completed')
 
 

@@ -24,22 +24,7 @@ session.headers['Connection'] ='Keep-Alive'
 payload = session.get(endpoint)
 x = payload.json() #output is in disctionary
 
-#result = json.dumps(x, indent = 4) #converts the dictionary (x) to json
-'''
 
-output = df["records"].to_csv('data_file.csv')
-
-#print(df["records"])
-
-
-print(result)
-'''
-
-mystr = """
-result
-"""
-
-#val = ast.literal_eval(x)
 val1 = json.loads(json.dumps(x)) #converts the dictionary (x) to Json
 val2 = val1["records"]
 
@@ -72,23 +57,3 @@ output = abc.to_csv('data_file.csv') #Saves the csv file to directory.
 
 print(abc)
 print('Job Completed')
-
-
-
-#, 'X-Authorization':'Bearer ' + token
-
-
-
-
-
-'''
-print(response.status_code)
-print(response.json()['token'])
-print(response.json()['idUser'])
-print(response.headers)
-
-
-payload = requests.get(endpoint)
-print(payload.json())
-
-'''

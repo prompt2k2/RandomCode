@@ -60,10 +60,10 @@
 53,56178,0,True,False,"EB0011_SE_Ecobank Douglas Road, Owerri, Imo",507224b29655,19965,0,UTC,,,,False,True,1,1,,1,0,1584379331,0,False,solar
 54,60498,1,True,True,"EB0012_SS_Ecobank Hospital Road, Ogoja, Cross River",64cfd99076b9,19965,0,Africa/Lagos,07042932647,,,True,True,0,0,,1,0,1590001325,0,False,generator
 55,60193,0,True,False,"EB0013_SS_Ecobank Etta Agbor Road, Calabar, Cross River",f45eab696f02,19965,0,Africa/Lagos,08094902340,,,False,True,1,1,,1,0,1589718538,0,False,solar
-56,62841,1,True,True,"EB0014_SS_Ecobank Old GRA, Aba, Abia",f45eabf8b552,19965,0,Africa/Lagos,07041416725,,,False,True,0,0,,1,0,1592388105,0,False,battery
+56,62841,1,True,True,"EB0014_SS_Ecobank Old GRA, Aba, Abia",f45eabf8b552,19965,0,Africa/Lagos,07041416725,,,False,True,0,0,,1,0,1592388105,0,False,solar
 57,57148,1,True,True,"EB0015_SE_Ecobank Okigwe Road 2, Owerri, Imo",f45eabf70e8d,19965,0,UTC,,,,False,True,0,0,,1,0,1585328387,0,False,solar
 58,56068,1,True,True,"EB0016_SW_Ecobank 21 Road, Festac, Lagos",f45eab69e5e1,19965,0,Africa/Lagos,08036545202,,,False,True,0,0,,1,0,1584208057,0,False,solar
-59,60369,0,True,False,"EB0017_SS_Ecobank Ikom 2, Calabar, Cross River",50658363dd46,19965,0,Africa/Lagos,07042932167,,,False,True,0,0,,1,0,1589892538,0,False,solar
+59,60369,0,True,False,"EB0017_SS_Ecobank Ikom 2, Calabar, Cross River",50658363dd46,19965,0,Africa/Lagos,07042932167,,,False,True,0,0,,1,0,1589892538,0,False,battery
 60,56052,0,True,False,"EB0018_SW_Ecobank Ojo Cantonement, Ojo, Lagos",f45eab6a2309,19965,0,UTC,07034859738,,,False,True,0,0,,1,0,1584194536,0,False,generator
 61,56448,0,True,False,"EB0019_SS_ Ecobank Obiaruku, Delta",f45eab698e42,19965,0,UTC,07064352366,,,False,True,0,0,,1,0,1584628490,0,False,solar
 62,59999,0,True,False,"EB0020_SW_Ecobank Egbeda-Idimu Road, Egbeda, Lagos",50658363c4bb,19965,0,UTC,07056509058,,,False,True,0,0,,1,0,1589459471,0,False,solar
@@ -73,7 +73,7 @@
 66,61191,0,True,False,"EB0024_SW_Ecobank Western Avenue, Ojuelegba, Surulere, Lagos",508cb1e4f463,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1590756135,0,False,solar
 67,61500,0,True,False,"EB0025_SS_Ecobank Olu Obasanjo Road, Port Harcourt, Rivers",4c3fd33ee320,19965,0,Africa/Lagos,07041837686,,,False,True,1,1,,1,0,1591118235,0,False,solar
 68,56682,1,True,True,"EB0026_SW_Ecobank Iyana Ipaja, Lagos",f45eab6af85d,19965,0,Africa/Lagos,09046909939,,,False,True,1,1,,1,0,1584897748,0,False,solar
-69,61199,1,True,True,"EB0027_NC_Ecobank Jabi Abuja, FCT",f45eabf9668c,19965,0,UTC,,,,False,True,0,0,,1,0,1590757567,0,False,solar
+69,61199,1,True,True,"EB0027_NC_Ecobank Jabi Abuja, FCT",f45eabf9668c,19965,0,UTC,,,,False,True,0,0,,1,0,1590757567,0,False,battery
 70,60154,0,True,False,"EB0028_SW_Ecobank Isolo-Ilasamaja, Ilasamaja, Lagos",507224b12d75,19965,0,UTC,07042534288,,,False,True,1,1,,1,0,1589631360,0,False,solar
 71,59758,0,True,False,"EB0029_SS_Ecobank Oron Road, Uyo, Akwa Ibom",0479b7f274d4,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1589214546,0,False,generator
 72,64492,1,True,True,"EB0030_SW_Ecobank Abeokuta, Ogun",4c3fd33ebbb1,19965,0,UTC,,,,False,True,1,1,,1,0,1593776159,0,False,solar
@@ -207,7 +207,7 @@
 200,62910,1,True,True,FC0009_NC_FCMB PH Crescent Abuja FCT,0479b7f18147,19965,0,UTC,,,,False,True,0,0,,1,0,1592410445,0,False,battery
 201,22148,1,True,True,"FC0010_NC_FCMB Ladoke, Garki 2, Abuja, FCT",985dadcb1a4e,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1529354359,0,False,solar
 202,64650,1,True,True,FC0012_NW_FCMB Bompai Rd Kano,c4edba87b9ff,19965,0,UTC,,,,False,True,0,0,,1,0,1593979705,0,False,solar
-203,36736,1,True,True,"FC0015_SS_FCMB Transamadi 1, Port Harcourt, Rivers",9884e38cf883,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1558507568,0,False,solar
+203,36736,1,True,True,"FC0015_SS_FCMB Transamadi 1, Port Harcourt, Rivers",9884e38cf883,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1558507568,0,False,battery
 204,26656,0,True,False,"FC0016_SW_FCMB Idimu, Lagos",9884e3b397cd,19965,0,UTC,,,,False,True,1,1,,1,0,1538493728,0,False,solar
 205,45541,0,True,False,"FC0017_SW_FCMB Alagbado, Lagos",9884e38d3c3c,19965,0,UTC,,,,False,True,0,0,,1,0,1570717501,0,False,solar
 206,27014,1,True,True,"FC0018_NW_FCMB Zaria Road, Kaduna",9884e3b3d2d4,19965,0,UTC,,,,False,True,0,0,,1,0,1539168292,0,False,solar
@@ -243,7 +243,7 @@
 222,42023,1,True,True,"FC0034_SS_FCMB Oron Road, Uyo, Akwa Ibom",6064054c8414,19965,0,Africa/Lagos,08187133194,,,False,True,1,1,,1,0,1566138156,0,False,generator
 223,34782,1,True,True,"FC0035_NC_FCMB British American Junction, Jos, Plateau",606405279e91,19965,0,UTC,,,,False,True,0,0,,1,0,1555236985,0,False,solar
 224,127661,1,True,True,FC0036_SS_RUMOKORO,0cb2b7b80c8b,19965,0,Africa/Lagos,,,,True,True,0,0,,1,0,1631375565,0,False,solar
-225,33386,0,True,False,"FC0037_SS_FCMB Calabar, Cross River",7c669d45d023,19965,0,UTC,,,,True,True,0,0,,1,0,1552747390,0,False,solar
+225,33386,0,True,False,"FC0037_SS_FCMB Calabar, Cross River",7c669d45d023,19965,0,UTC,,,,True,True,1,1,,1,0,1552747390,0,False,solar
 226,30509,1,True,True,"FC0038_NC_FCMB Kubwa, Abuja, FCT",9884e3969276,19965,0,UTC,,,,False,True,0,0,,1,0,1547133273,0,False,solar
 227,31406,1,True,True,"FC0039_SS_FCMB Effurun, Warri, Delta",0479b7eca5f0,19965,0,UTC,,,,False,True,0,0,,1,0,1549295774,0,False,generator
 228,31240,1,True,True,"FC0040_SE_FCMB Garden Avenue, Enugu",9884e3b332b6,19965,0,UTC,,,,False,True,1,1,,0,0,1548847688,0,False,solar
@@ -253,7 +253,7 @@
 232,29885,0,True,False,"FC0044_SW_FCMB Ijebu-Ode 1, Ogun",606405279ed6,19965,0,UTC,,,,False,True,1,1,,1,0,1545057366,0,False,solar
 233,30857,0,True,False,"FC0045_SW_FCMB Sango Ota, Ogun",0cb2b7b981bd,19965,0,UTC,,,,False,True,0,0,,1,0,1547930717,0,False,battery
 234,30545,0,True,False,"FC0046_SS_FCMB Umuahia 1, Abia",9884e39849c5,19965,0,UTC,,,,False,True,0,0,,1,0,1547211820,0,False,solar
-235,58187,1,True,True,"FC0047_SW_FCMB Lagere,Ile Ife,Osun",0479b7efc38a,19965,0,Africa/Lagos,,,,False,True,1,1,,0,0,1587040190,0,False,battery
+235,58187,1,True,True,"FC0047_SW_FCMB Lagere,Ile Ife,Osun",0479b7efc38a,19965,0,Africa/Lagos,,,,False,True,1,1,,0,0,1587040190,0,False,solar
 236,42972,1,True,True,"FC0048_NE_FCMB Bauchi, Bauchi",6064054c720c,19965,0,UTC,,,,False,True,1,1,,1,0,1567433120,0,False,solar
 237,30337,0,True,False,"FC0049_SW_FCMB Ogba, Ikeja, Lagos",6064054fbdeb,19965,0,UTC,,,,False,True,1,1,,1,0,1546619279,0,False,generator
 238,33861,1,True,True,"FC0050_SW_FCMB Broad Street, Lagos",6064054ff27d,19965,0,UTC,,,,False,True,0,0,,1,0,1553679959,0,False,grid
@@ -337,7 +337,7 @@
 316,130859,0,True,False,PB0015_SW_Polaris Osapa,0479b7ec5dea,19965,0,Africa/Lagos,,,,True,True,0,0,,1,0,1633097523,0,False,solar
 317,129898,1,True,True,PB0017_SW_Polaris Bank Ikotun,0cb2b7cd449f,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1632572854,0,False,generator
 318,129913,1,True,True,PB0022_SW_POLARIS OSOLO WAY,0cb2b7b81b2b,19965,0,Africa/Lagos,,,,True,True,0,0,,1,0,1632579674,0,False,battery
-319,127734,1,True,True,PB0026_SW_Polaris 1st  Avenue_Festac,94e36dce9010,19965,0,UTC,,,,False,True,1,1,,1,0,1631469083,0,False,solar
+319,127734,1,True,True,PB0026_SW_Polaris 1st  Avenue_Festac,94e36dce9010,19965,0,UTC,,,,False,True,1,1,,1,0,1631469083,0,False,battery
 320,132095,1,True,True,PB0027_SW_Polaris Sango-Otta,0cb2b7b9f117,19965,0,UTC,,,,False,True,1,1,,1,0,1633792868,0,False,battery
 321,28963,1,True,True,PV test site-main office ikoyi,9884e3b38940,19965,0,Africa/Lagos,+2349090849683,,,False,True,0,0,,1,0,1543233850,0,False,battery
 322,40884,0,True,False,"RC0001_SW_Rainbow College, Surulere, Lagos",6064054cab75,19965,0,UTC,,,,False,True,1,1,,1,0,1564489716,0,False,solar
@@ -356,7 +356,7 @@
 328,17560,0,True,False,"SB0007_SW_Stanbic IBTC Sagamu, Ogun",0cb2b7b97479,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1516374946,0,False,battery
 329,17579,0,True,False,"SB0008_SW_Stanbic Ota 1, Ogun",985dad380013,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1516464121,0,False,battery
 330,17577,0,True,False,"SB0009_SW_Stanbic Ota 2, Ogun",985dadcb90e2,19965,0,Africa/Lagos,,,,False,True,0,1,,1,0,1516460184,0,False,solar
-331,18066,0,True,False,"SB0010_SW_Stanbic IBTC Ile-Ife, Osun",985dadcacf87,19965,0,Africa/Lagos,,,,False,True,0,1,,1,0,1518335687,0,False,solar
+331,18066,0,True,False,"SB0010_SW_Stanbic IBTC Ile-Ife, Osun",985dadcacf87,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1518335687,0,False,solar
 332,17893,0,True,False,"SB0011_SW_Stanbic IBTC Ilesha, Osun",985dadcaf3c3,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1517673939,0,False,solar
 333,18338,0,True,False,"SB0012_SS_Stanbic IBTC Calabar, Cross River",985dadcb0931,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1518955025,0,False,battery
 334,18484,0,True,False,"SB0013_SS_STANBIC IBTC Warri, Delta",606405e61000,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1519398769,0,False,solar
@@ -392,7 +392,7 @@
 364,16499,0,True,False,ST0009_SW_Sterling Bank Oshodi Lagos,f45eabfa06b7,19965,0,UTC,,,,False,True,0,0,,1,0,1512323302,0,False,solar
 365,15776,0,True,False,"ST0010_SW_Sterling Bank Magboro, Ogun",606405e5d8a2,19965,0,Africa/Lagos,,,,False,True,1,1,,0,0,1510056203,0,False,solar
 366,20226,0,True,False,"ST0012_SW_Sterling  Bank Aromire, Ikeja, Lagos",9884e3b36c45,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1525109700,0,False,generator
-367,17160,1,True,True,"ST0013_SW_Sterling Bank Ikoyi 1, Lagos",9884e3aef69b,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1514985668,0,False,grid
+367,17160,1,True,True,"ST0013_SW_Sterling Bank Ikoyi 1, Lagos",9884e3aef69b,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1514985668,0,False,solar
 368,20655,0,True,False,"ST0014_NW_Sterling Bank Kachia Road, Kaduna",985dadcb8ad2,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1526286193,0,False,solar
 369,16676,0,True,False,"ST0015_SW_Sterling Bank Festac, Lagos",f45eabf76dbf,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1512760044,0,False,solar
 370,17206,1,True,True,"ST0016_SW_Sterling Bank Creek Road, Apapa, Lagos",985dadcabd8c,19965,0,Africa/Lagos,,,,True,True,0,1,,1,0,1515161127,0,False,battery
@@ -400,7 +400,7 @@
 372,18098,0,True,False,"ST0018_SW_Sterling Bank Igbogbo, Ikorodu, Lagos",9884e3b3adbe,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1518449336,0,False,solar
 373,17453,0,True,False,"ST0019_SW_Sterling Bank Ikotun, Lagos",606405e66a13,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1516116101,0,False,solar
 374,18342,1,True,True,"ST0020_SW_Sterling Bank Akute, Ogun",9884e3b3978b,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1518974413,0,False,solar
-375,18614,0,True,False,"ST0021_NW_Sterling Bank Ali Akilu Road, Kaduna",38d2692bd575,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1519906526,0,False,solar
+375,18614,0,True,False,"ST0021_NW_Sterling Bank Ali Akilu Road, Kaduna",38d2692bd575,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1519906526,0,False,generator
 376,20114,1,True,True,"ST0022_NW_Sterling Bank Gusau, Zamfara",508cb1cc22a7,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1524740536,0,False,solar
 377,19952,0,True,False,"ST0023_NW_Sterling Bank Kebbi, Kebbi",9884e3b38ffc,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1524411465,0,False,solar
 378,19462,0,True,False,"ST0024_NE_Sterling Bank Gombe, Gombe",508cb1e4df00,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1523004663,0,False,solar
@@ -442,7 +442,7 @@
 408,15511,0,True,False,"UN0009_NW_Union Bank Kofar Ruwa, Kano",04a316e7bffd,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1509009680,0,False,solar
 409,15635,0,True,False,"UN0010_NE_Union Bank Michika, Adamawa",606405f0a5d8,19965,0,Africa/Lagos,,,,False,True,0,1,,1,0,1509543834,0,False,battery
 410,18587,0,True,False,"UN0011_SW_ Union Bank Akure Main, Alagbaka, Ondo",38d2692bc6fb,19965,0,Africa/Lagos,,,,False,True,0,0,,0,0,1519826735,0,False,solar
-411,15676,1,True,True,"UN0012_NC_Union Bank Adetokunbo, Wuse 2, Abuja, FCT",606405eff3af,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1509640400,0,False,battery
+411,15676,1,True,True,"UN0012_NC_Union Bank Adetokunbo, Wuse 2, Abuja, FCT",606405eff3af,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1509640400,0,False,solar
 412,28405,1,True,True,"UN0013_NE_Union Bank Bajoga, Gombe",9884e3b31aad,19965,0,UTC,,,,False,True,1,1,,1,0,1541939566,0,False,solar
 413,17132,0,True,False,"UN0014_NC_Union Bank Anyigba, Kogi",985dadcac18d,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1514803151,0,False,solar
 414,17333,0,True,False,"UN0015_SS_Union Bank Tinapa, Calabar, Cross River",606405e5c12a,19965,0,Africa/Lagos,,,,True,True,0,0,,1,0,1515747314,0,False,solar
@@ -473,8 +473,8 @@
 439,31098,1,True,True,"UN0043_SE_Union Udi, Enugu",606405073488,19965,0,Africa/Lagos,,,,False,True,0,1,,1,0,1548520557,0,False,solar
 440,42560,1,True,True,"UN0045_SW_Union Bank Admiralty Way, Lekki, Lagos",985dadcab77d,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1566899751,0,False,solar
 441,34977,1,True,True,"UN0046_SS_Union Transamadi, Rivers",6064054fc0aa,19965,0,Africa/Lagos,08106372458,,,False,True,0,0,,1,0,1555515141,0,False,solar
-442,44420,1,True,True,UN0048_NC_MASAKA NASSARAWA,9884e38d3128,19965,0,UTC,,,,False,True,1,1,,1,0,1569352927,0,False,solar
-443,43856,1,True,True,UN0049_SS_UNION MARIAN CALABAR,6064050e1f70,19965,0,UTC,,,,False,True,1,1,,1,0,1568554607,0,False,battery
+442,44420,1,True,True,UN0048_NC_MASAKA NASSARAWA,9884e38d3128,19965,0,UTC,,,,False,True,1,1,,1,0,1569352927,0,False,battery
+443,43856,1,True,True,UN0049_SS_UNION MARIAN CALABAR,6064050e1f70,19965,0,UTC,,,,False,True,1,1,,1,0,1568554607,0,False,solar
 444,48048,1,True,True,"UN0050_SE_UNION EKWULOBIA, ANAMBRA STATE",c4f31281b6cf,19965,0,UTC,08073468783,,,False,True,0,0,,1,0,1574009938,0,False,solar
 445,40802,1,True,True,UN0051_NW_Kanti Kwari Kano,985dadcb84f8,19965,0,UTC,,,,False,True,1,1,,2,0,1564400778,0,False,solar
 446,34765,1,True,True,"UN0053_SS_Union Bori, Rivers",6064054c6223,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1555172413,0,False,solar
@@ -496,7 +496,7 @@
 462,45194,1,True,True,"UN0072_NE_Union Bank Jalingo, Taraba",6064054c886f,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1570276423,0,False,solar
 463,47556,1,True,True,"UN0073_NE_UNion  Bank Bauchi Main, Bauchi, Bauchi",9884e39bdc97,19965,0,UTC,,,,False,True,0,0,,1,0,1573393127,0,False,solar
 464,44598,1,True,True,"UN0074_SS_Union Bank Abak, Akwa-Ibom",6064054fbde2,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1569511923,0,False,solar
-465,41129,1,True,True,"UN0075_SS_Union Effunrun Main, Warri, Delta",6064054fb2ec,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1564833079,0,False,solar
+465,41129,1,True,True,"UN0075_SS_Union Effunrun Main, Warri, Delta",6064054fb2ec,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1564833079,0,False,battery
 466,39878,1,True,True,"UN0076_SE_Union Bright Street Onitsha, Anambra",9884e396841d,19965,0,UTC,,,,False,True,1,1,,1,0,1563108302,0,False,battery
 467,39213,1,True,True,"UN0077_SE_Union Bank Niger Bridge Head, Onitsha, Anambra",9884e38d0733,19965,0,UTC,,,,False,True,0,0,,1,0,1562080440,0,False,solar
 468,39041,1,True,True,"UN0078_SE_Union Bank Atani Road, Anambra",6064054c6208,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1561804582,0,False,solar
@@ -511,7 +511,7 @@
 477,40411,1,True,True,"UN0085_SS_ Union Airport Road Warri, Delta",507224b752ab,19965,0,Africa/Lagos,09065770083,,,False,True,0,0,,1,0,1563889277,0,False,battery
 478,41176,1,True,True,"UN0086_SS_Union Akpakpava Main, Benin, Edo",6064054cc00c,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1564983549,0,False,solar
 479,42021,0,True,False,"UN0087_SS_Union Ikwerre Road, Port Harcourt, Rivers",60640527a3a4,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1566136275,0,False,solar
-480,42920,1,True,True,"UN0088_SW_Union Bank Aspamda, Trade Fair, Lagos",9884e38cfe4c,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1567407066,0,False,grid
+480,42920,1,True,True,"UN0088_SW_Union Bank Aspamda, Trade Fair, Lagos",9884e38cfe4c,19965,0,Africa/Lagos,,,,False,True,1,1,,1,0,1567407066,0,False,battery
 481,42667,1,True,True,"UN0089_SW_Union  Bank Bariga, Lagos",6064054c6666,19965,0,UTC,,,,False,True,0,0,,1,0,1566994469,0,False,solar
 482,43703,1,True,True,"UN0090_SE_Union Bank Aboh Mbaise, Imo",6064054ff268,19965,0,Africa/Lagos,,,,False,True,0,0,,1,0,1568301326,0,False,solar
 483,44747,0,True,False,"UN0091_SE_Union Bank Agbani, Enugu",6064054c6244,19965,0,UTC,08169109395,,,False,True,0,0,,1,0,1569822948,0,False,solar
@@ -523,7 +523,7 @@
 489,48058,0,True,False,"UN0098_SW_Ode-Irele, Okitipupa, Ondo",9884e3964505,19965,0,Africa/Lagos,07032913259,,,False,True,1,1,,1,0,1574061585,0,False,solar
 490,48095,1,True,True,"UN0100_SE_Union Bank Ohafia, Abia",507224b29947,19965,0,UTC,,,,False,True,0,0,,1,0,1574095000,0,False,solar
 491,46931,1,True,True,UN0101_SW_UNION IKOTUN-EGBE,e8eb11e3c7fc,19965,0,UTC,08032464130,,,False,True,0,0,,1,0,1572544172,0,False,grid
-492,44238,0,True,False,"UN0103_SW_Union Bank Allen, Ikeja, Lagos",9884e3b3e0a6,19965,0,Africa/Lagos,07032809868,,,False,True,1,1,,1,0,1568990377,0,False,battery
+492,44238,0,True,False,"UN0103_SW_Union Bank Allen, Ikeja, Lagos",9884e3b3e0a6,19965,0,Africa/Lagos,07032809868,,,False,True,1,1,,1,0,1568990377,0,False,solar
 493,49628,1,True,True,"UN0104_SE_Union Bank Amawbia, Anambra",7c38665ab5b1,19965,0,UTC,,,,False,True,0,0,,1,0,1576000163,0,False,solar
 494,87811,1,True,True,"UN0105_SS_Union Bank Eket, Akwa Ibom",64cfd9909c2a,19965,0,Africa/Lagos,08033215451,,,False,True,0,0,,1,0,1606996965,0,False,solar
 495,98211,1,True,True,UN0109_SS_ Union bank Mission Rd Benin,7c669d4defd0,19965,0,UTC,,,,False,True,1,1,,1,0,1615055208,0,False,generator

@@ -55,5 +55,5 @@ abc = pd.DataFrame(val2, columns=[
 
 output = abc.to_csv('data_file.csv') #Saves the csv file to directory.
 
-print(abc)
+print(val2)
 print('Job Completed')

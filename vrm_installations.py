@@ -6,6 +6,13 @@ import json
 
 endpoint = 'https://vrmapi.victronenergy.com/v2/users/19965/installations'
 
+start = 1633046400
+end= 1635724800
+interval = 'days' #You can change this to seconds, minutes, hours, days, weeks
+attrs = "attributesCodes"
+attributes = 'S'
+response = requests.post(login_url, json=details)
+
 vrmlogin.response()
 session = requests.Session()
 session.headers['X-Authorization'] = 'Bearer ' + response.json()['token']

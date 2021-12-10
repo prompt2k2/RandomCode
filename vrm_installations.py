@@ -2,8 +2,15 @@ import vrmlogin
 import requests
 import pandas as pd
 #from vrmlogin import Session as session
-import json
+import json, os
 
+username = os.environ.get('VRM_USER')
+password = os.environ.get('VRM_PASS')
+
+details={'username':username, 'password':password}
+
+base_url = 'https://vrmapi.victronenergy.com/v2/'
+login_url = base_url + 'auth/login'
 endpoint = 'https://vrmapi.victronenergy.com/v2/users/19965/installations'
 
 start = 1633046400

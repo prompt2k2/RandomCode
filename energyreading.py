@@ -46,8 +46,19 @@ df = pd.DataFrame.from_dict(x['records'], orient='index').reset_index(drop=True)
 
 ###################################################################################################################
 
+data = pd.json_normalize(x['records']).T
+
+var = pd.DataFrame(data, columns=['timestamp',
+                                  'Device', 'instance', 'idDataAttribute','description',
+                                  'code','formattedValue','rawValue'
+                                  ])
+
+print(var.head()) 
+print('************************************************************************')
+print(data.head())
+
 #output = df.to_csv('c:\\Users\\Enigma\\Downloads\\EnergyReading2021.csv')
-print (y)
+#print (x['records'].keys())
 #print(dfT)
 
 

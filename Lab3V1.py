@@ -93,26 +93,53 @@ totalengineeringcost = engineeringcost_19 + \
 print("The cost of the arts program is $%.2f" % totalartcost)
 print("The cost of the science program is $%.2f" % totalsciencecost)
 print("The cost of the engineering program is $%.2f" % totalengineeringcost)
-# ------------Remove any code that is unnecessary--------------------------
-counter = [balance2]
-art = [totalartcost]
-science = [totalsciencecost]
-engineering = [totalengineeringcost]
-for year in range(0, 214):
-    counter += [balance2]
-    art += [totalartcost]
-    science += [totalsciencecost]
-    engineering += [totalengineeringcost]
-y = savings
-years = range(0, 215)
-# y=balance2
-plt.plot(years, y, label='Savings Balance')  # Plots the savings graph
 
-plt.plot(years, art, label='Art Cost')  # imposes the art cost
-plt.plot(years, science, label='Science Cost')  # imposes the science cost
-# imposes the engineering cost
-plt.plot(years, engineering, label='Engineering Cost')
-plt.ylabel('Amount $')
-plt.xlabel('Month')
-plt.title('Savings vs Tuition')
-plt.show()
+# Version starts from here
+
+course = input(
+    'Please select your program choice! Enter 1 for Art, 2 for Science, 3 for Engineering. \n ')
+course = int(course)
+
+if course > 3 or type(course) == str:
+    course = 0
+
+match course:
+    case 1:
+        TuitonCost = totalartcost
+        print("Art")
+    case 2:
+        TuitonCost = totalsciencecost
+        print("Science")
+    case 3:
+        TuitonCost = totalengineeringcost
+        print("Engineering")
+    case 0:
+        print("Invalid Input")
+
+if TuitionCost > balance:
+    print('Your saving is not sufficient for this course')
+else:
+    print('You have enough savings for this course')
+# ------------Remove any code that is unnecessary--------------------------
+# counter = [balance2]
+# art = [totalartcost]
+# science = [totalsciencecost]
+# engineering = [totalengineeringcost]
+# for year in range(0, 214):
+#     counter += [balance2]
+#     art += [totalartcost]
+#     science += [totalsciencecost]
+#     engineering += [totalengineeringcost]
+# y = savings
+# years = range(0, 215)
+# # y=balance2
+# plt.plot(years, y, label='Savings Balance')  # Plots the savings graph
+
+# plt.plot(years, art, label='Art Cost')  # imposes the art cost
+# plt.plot(years, science, label='Science Cost')  # imposes the science cost
+# # imposes the engineering cost
+# plt.plot(years, engineering, label='Engineering Cost')
+# plt.ylabel('Amount $')
+# plt.xlabel('Month')
+# plt.title('Savings vs Tuition')
+# plt.show()
